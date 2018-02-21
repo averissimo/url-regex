@@ -1,6 +1,6 @@
-# url-regex [![Build Status](http://img.shields.io/travis/averissimo/url-regex.svg?style=flat)](https://travis-ci.org/averissimo/url-regex)
+[![Build Status](http://img.shields.io/travis/averissimo/url-regex.svg?style=flat)](https://travis-ci.org/averissimo/url-regex) [![Greenkeeper badge](https://badges.greenkeeper.io/averissimo/url-regex.svg)](https://greenkeeper.io/)
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/averissimo/url-regex.svg)](https://greenkeeper.io/)
+# url-regex
 
 > Regular expression for matching URLs
 
