@@ -36,7 +36,7 @@
     "eslint-plugin-no-use-extend-native": "^0.3.12",
     "eslint-plugin-node": "^6.0.0",
     "eslint-plugin-promise": "^3.6.0",
-    "eslint-plugin-unicorn": "^4.0.0",
+    "eslint-plugin-unicorn": "^5.0.0",
     "xo": "^0.20.0"
   },
   "xo": {
