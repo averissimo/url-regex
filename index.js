@@ -2,7 +2,7 @@
 const ipRegex = require('ip-regex');
 const tlds = require('tlds');
 
-module.exports = opts => {
+const urlRegex = opts => {
   opts = Object.assign({strict: true}, opts);
 
   const protocol = `(?:(?:[a-z]+:)?//)${opts.strict ? '' : '?'}`;
@@ -27,3 +27,5 @@ module.exports = opts => {
 
   return opts.exact ? new RegExp(`(?:^${regex}$)`, 'i') : new RegExp(regex, 'ig');
 };
+
+module.exports = urlRegex;
