@@ -1,0 +1,10 @@
+{
+  "test": "Lorem ipsum //dolor.sit\n<a href=\"http://example.com\">example.com</a>\n<a href=\"http://example.com/with-path\">with path</a>\n[and another](https://another.example.com) and\nFoo //bar.net/?q=Query with spaces",
+  "result": [
+    "//dolor.sit",
+    "http://example.com",
+    "http://example.com/with-path",
+    "https://another.example.com",
+    "//bar.net/?q=Query"
+  ]
+}

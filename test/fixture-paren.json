@@ -1,0 +1,10 @@
+{
+  "test": "<a href=\"http://example.com/with-path))\">with path</a>\n<a href=\"http://example.com/with-path)\">with path</a>\n<a href=\"http://example.com/with-(path)\">with path</a>\n<a href=\"http://example.com/with-(path\">with path</a>\n<a href=\"http://example.com/with-)path\">with path</a>",
+  "result": [
+    "http://example.com/with-path",
+		"http://example.com/with-path",
+		"http://example.com/with-(path)",
+		"http://example.com/with-(path",
+		"http://example.com/with-)path"
+  ]
+}
