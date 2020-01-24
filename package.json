@@ -25,10 +25,10 @@
   ],
   "dependencies": {
     "ip-regex": "^3.0.0",
-    "tlds": "^1.199.0"
+    "tlds": "^1.207.0"
   },
   "devDependencies": {
-    "ava": "^1.1.0",
+    "ava": "^1.4.1",
     "xo": "^0.24.0"
   },
   "xo": {
