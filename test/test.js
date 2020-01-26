@@ -1,5 +1,5 @@
-import test from 'ava';
-import m from '..';
+const test = require('ava');
+const m = require('..');
 
 test('match URLs with parenthesis in text', t => {
   const fixtureParen = require('./fixture-paren.json');

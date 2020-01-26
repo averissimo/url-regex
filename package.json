@@ -1,6 +1,6 @@
 {
   "name": "uber-url-regex",
-  "version": "5.0.8",
+  "version": "5.0.9",
   "description": "Regular expression for matching URLs",
   "license": "MIT",
   "repository": "averissimo/url-regex",
@@ -28,7 +28,7 @@
     "tlds": "^1.207.0"
   },
   "devDependencies": {
-    "ava": "^1.4.1",
+    "ava": "^3.1.0",
     "xo": "^0.24.0"
   },
   "xo": {
