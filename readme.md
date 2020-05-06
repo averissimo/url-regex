@@ -1,4 +1,4 @@
-[![Build Status](http://img.shields.io/travis/averissimo/url-regex.svg?style=flat)](https://travis-ci.org/averissimo/url-regex) [![Greenkeeper badge](https://badges.greenkeeper.io/averissimo/url-regex.svg)](https://greenkeeper.io/)
+[![Build Status](http://img.shields.io/travis/averissimo/url-regex.svg?style=flat)](https://travis-ci.org/averissimo/url-regex) 
 
 # url-regex
 
